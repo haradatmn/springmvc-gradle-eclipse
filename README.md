@@ -1,4 +1,4 @@
-boasting-test
+Hello World SpringMVC with Gradle
 =============
 
-test
+SpringMVCプロジェクトをGradleでビルドする場合の雛形プロジェクです。
