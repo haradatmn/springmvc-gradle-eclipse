@@ -17,7 +17,7 @@ Gradleプロジェクトを使用した、SpringMVCの導入に使用できま�
 
 Eclipseへのプロジェクト作成方法は以下の通りです。
 
-1. **Eclipsにインポートする**  
+1. **Eclipseにインポートする**  
 Eclipseのインポート機能から、「GITからプロジェクト」→「URI」を選択する。  
 「ロケーション」にて、「https://github.com/tabris1298/boasting-test.git」を入力する。  
 「ブランチ選択」にて、"master"を選択して、任意のローカルフォルダにGITリポジトリを作成する。  
