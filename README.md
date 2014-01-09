@@ -2,7 +2,7 @@ Hello World SpringMVC with Gradle
 =============
 
 SpringMVC FrameWorkのHelloWorldです。  
-Gradleプロジェクトを使用した、SpringMVCの導入に使用できます。
+SpringMVC+Gradle構成でプロジェクトを作成した人はこのプロジェクトをCloneすれば一発です。
 
 動作環境
 ------
